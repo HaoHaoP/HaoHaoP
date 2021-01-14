@@ -12,4 +12,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HaoHaoP">
 
-![img](https://raw.githubusercontent.com/HaoHaoP/HaoHaoP/master/56101522_p0.jpg)
+![img](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
