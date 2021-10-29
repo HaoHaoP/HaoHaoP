@@ -1,3 +1,9 @@
+# GitHub Estatísticas
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHaoP&hide=html&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoHaoP&theme=dracula&show_icons=true" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaoHaoP&theme=dracula" />
+
 # 『No Game No Life』
 - 【一つ】この世界におけるあらゆる殺傷、戦争、略奪を禁ずる
 - 【二つ】争いは全てゲームによる勝敗で解決するものとする
@@ -9,11 +15,5 @@
 - 【八つ】ゲームの中の不正発覚は、敗北と見なす
 - 【九つ】以上をもって神の名のもと絶対不変のルールとする
 - 【十】みんななかよくプレイしましょう
-
-## **GitHub Estatísticas**
-
-![HaoHaoP](https://github-readme-stats.vercel.app/api?username=HaoHaoP&theme=radical&show_icons=true)
-![HaoHaoP](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHaoP&hide=html&layout=compact&theme=radical)
-![HaoHaoP](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaoHaoP&theme=monokai)
 
 ![img](https://raw.githubusercontent.com/HaoHaoP/HaoHaoP/master/56101522_p0.jpg)
