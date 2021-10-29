@@ -10,6 +10,10 @@
 - 【九つ】以上をもって神の名のもと絶対不変のルールとする
 - 【十】みんななかよくプレイしましょう
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaoHaoP">
+## **GitHub Estatísticas**
+
+![HaoHaoP](https://github-readme-stats.vercel.app/api?username=HaoHaoP&theme=radical&show_icons=true)
+![HaoHaoP](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHaoP&hide=html&layout=compact&theme=radical)
+![HaoHaoP](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaoHaoP&theme=monokai)
 
 ![img](https://raw.githubusercontent.com/HaoHaoP/HaoHaoP/master/56101522_p0.jpg)
