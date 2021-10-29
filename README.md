@@ -1,4 +1,4 @@
-# GitHub
+# GitHub Statistics
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHaoP&hide=html&layout=compact&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoHaoP&theme=dracula&show_icons=true" />
