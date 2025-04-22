@@ -10,5 +10,3 @@
 - 【八つ】ゲームの中の不正発覚は、敗北と見なす
 - 【九つ】以上をもって神の名のもと絶対不変のルールとする
 - 【十】みんななかよくプレイしましょう
-
-![img](https://raw.githubusercontent.com/HaoHaoP/HaoHaoP/master/56101522_p0.jpg)
